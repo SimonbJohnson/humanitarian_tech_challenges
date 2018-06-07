@@ -1,0 +1,2 @@
+# humanitarian_tech_challenges
+Specifications for humanitarian tech challenges
