@@ -1,5 +1,7 @@
 #Auto analysis of a HXL data set
 
+Status: Development by me only looking for partners
+
 First draft here
 https://simonbjohnson.github.io/hxlbiteschecker
 
