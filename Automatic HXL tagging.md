@@ -1,8 +1,8 @@
 Status: Claimed!
 
-Current Repo:
+Current Repo:https://github.com/OCHA-DAP/tag-predict
 
-PDF Handout: https://github.com/OCHA-DAP/tag-predict
+PDF Handout: https://github.com/OCHA-DAP/tag-predict/blob/master/Briefing%20Note%20HXL%20Machine%20Learning%20Pilot.pdf
 
 #HXL Tagging API
 
