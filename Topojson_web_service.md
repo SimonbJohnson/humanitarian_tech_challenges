@@ -1,4 +1,7 @@
 # Topojson web service
+
+Status: Partially claimed!  ITOS making the service for a few countries.  Need to think about other countries.
+
 Overview
 ITOS are releasing geometry files for country and their sub boundaries with pcodes.  Unfortunately these data sets are far too high resolution and heavy formats to be used in web applications.  This app aims to pull the latest data from ITOS, reduce the resolution and convert to topojson so that it can be used in webapps.
 
